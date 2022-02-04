@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+}
+body {
+    background-color: rgb(255, 222, 166);
+}
+.nav ul{
+    list-style-type: none;
+    float:right;
+    margin: 10px;
+    padding-right: 5px;
+}
+.nav li {
+    display: inline;
+}
+.nav h1 {
+    float: left;
+}
+.nav {
+    height: 50px;
+    background-color: orange;
+}
+.tab .card {
+padding: 35px 50px;
+margin: 20px;
+display: inline-block;
+border: 5px solid orange;
+float: left;
+background-color: white;
+}
+.tab {
+    width: 1350px;
+    margin: 0 auto;
+}
+.button {
+    padding-top: 5px;
+    border: 3px solid orange;
+    text-align: center;
+    margin-top:15px;
+    background-color: orange;
+}
